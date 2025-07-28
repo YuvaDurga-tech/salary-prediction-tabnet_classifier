@@ -1,4 +1,3 @@
-# salary-prediction-
 # 💼 Salary Prediction using TabNet Classifier
 
 This project aims to predict whether a person earns more than or less than ₹50K per year based on various features such as age, education, occupation, and working hours.  
@@ -57,7 +56,7 @@ In this project, I used the **Adult Income Dataset** from the [UCI Machine Learn
 ### 🔧 Step 1: Clone or download the repo
 
 ```bash
-git clone https://github.com/YuvaDurga-tech/salary-prediction-tabnet.git
+git clone https://github.com/your-username/salary-prediction-tabnet.git
 cd salary-prediction-tabnet
 ```
 
@@ -96,7 +95,7 @@ You’ll get:
 ## 📝 Author
 
 **Yuva Durga**  
-AI Capstone Project – CSE-CyberSecurity Department
+AI Capstone Project – CSE Department
 
 ---
 
